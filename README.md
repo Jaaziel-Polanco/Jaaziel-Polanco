@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **Jaazielmartinez09@gmail.com**
 
 - ⚡ Fun fact :- Food and VideoGames are the reasons to live.
 

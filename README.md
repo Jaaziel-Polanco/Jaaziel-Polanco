@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/jaaziel_polanco/?igsh=MTR3b2EzMWluZHZucQ%3D%3D&utm_source=qr" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/496892846322876438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/496892846322876438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="40" width="50" /></a>
 </p>
 
 <br>

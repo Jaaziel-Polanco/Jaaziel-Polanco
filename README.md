@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,js,materialui,mysql,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,firebase,github,html,js,materialui,mysql,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

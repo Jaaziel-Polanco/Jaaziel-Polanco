@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **Jaazielmartinez09@gmail.com**
+- 📫 How to reach me <a href="mailto:jaazielmartinez09@gmail.com">**Jaazielmartinez09@gmail.com**</a>
 
 - ⚡ Fun fact :- Food and VideoGames are the reasons to live.
 

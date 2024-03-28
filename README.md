@@ -14,7 +14,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jaaziel-sebasti%C3%A1n-polanco-martinez-63a851288/" target="blank"><img align="center"
       src="https:/raw.git/hubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="Jaaziel" height="30" width="40" /></a>
   <a href="https://www.instagram.com/jaaziel_polanco/?igsh=MTR3b2EzMWluZHZucQ%3D%3D&utm_source=qr" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>

@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,firebase,github,html,js,materialui,mysql,react,tailwind,vscode&perline=14" />
   </a>

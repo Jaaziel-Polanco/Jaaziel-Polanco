@@ -8,12 +8,9 @@
 - 📫 How to reach me **Jaazielmartinez09@gmail.com**
 
 - ⚡ Fun fact :- Food and VideoGames are the reasons to live.
-  <br>
-
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
   <br>
-
+ <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jaaziel-sebasti%C3%A1n-polanco-martinez-63a851288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>

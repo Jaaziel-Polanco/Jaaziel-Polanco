@@ -7,7 +7,7 @@
 
 - 📫 How to reach me <a href="mailto:jaazielmartinez09@gmail.com">**Jaazielmartinez09@gmail.com**</a>
 
-- ⚡ Fun fact :- Food and VideoGames are the reasons to live.
+- ⚡ Fun fact :- Food and women are the reasons to live.
 
  
 <h3 align="left">Connect with me:</h3>
